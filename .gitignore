@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+env/
+myenv/
+
+# Environment secrets
+.env
+
+# Generated files
+runs/
+wandb/

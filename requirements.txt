@@ -1,0 +1,10 @@
+numpy
+opencv-python
+tqdm
+protobuf
+onnx
+netron
+Flask
+torch
+torchvision
+torchaudio
